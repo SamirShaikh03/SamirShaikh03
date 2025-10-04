@@ -295,7 +295,7 @@ Collection of projects built while learning React.js, Java, and modern web devel
 ```mermaid
 graph LR
     A[🎓 Education] --> B[🏆 First Rank SSC]
-    B --> C[💻 HSC - 79.5%]
+    B --> C[💻 HSC - Garde: A]
     C --> D[🎓 Engineering @ GHRCEM]
     D --> E[☕ Java Certification]
     D --> F[⚛️ React.js Learning]
