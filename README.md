@@ -10,23 +10,20 @@
 
 <!-- Premium Social Badges -->
 <p align="center">
-  <a href="https://github.com/samirshaikh744">
-    <img src="https://img.shields.io/badge/GitHub-%40samirshaikh744-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=00F7F7"/>
+  <a href="https://github.com/SamirShaikh03">
+    <img src="https://img.shields.io/badge/GitHub-%40SamirShaikh03-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=00F7F7"/>
   </a>
   <a href="https://github.com/samirshaikh744">
     <img src="https://img.shields.io/badge/GitHub%20Profile-View-00F7F7?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
   </a>
-  <a href="https://linkedin.com/in/samirshaikh">
+  <a href="https://www.linkedin.com/in/samir-shaikh-9424b4380">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=00F7F7"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="mailto:shaikhsaim844@gmail.com">
+  <a href="mailto:shaikhsaim8442@gmail.com">
     <img src="https://img.shields.io/badge/Email-shaikhsaim844%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
-  </a>
-  <a href="tel:+917020217904">
-    <img src="https://img.shields.io/badge/Phone-%2B91--7020217904-25D366?style=for-the-badge&logo=phone&logoColor=white&labelColor=25D366"/>
   </a>
 </p>
 </div>
@@ -107,12 +104,12 @@ const samir = {
 Language Proficiency:
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Java            ████████████████████  90%
+C/C++           ████████████████████  90%
 HTML/CSS        ████████████████████  100%
-JavaScript      ██████████████████░░  70%
-React.js        ████████████████░░░░  80%
-Python          ██████████████░░░░░░  70%
-C/C++           ███████████████░░░░░  75%
+Java            ██████████████████░░  80%
+React.js        ████████████████░░░░  70%
+Python          ████████████████░░░░  70%
+JS              ████████████████░░░░  70%
 ```
 
 </td><td>
@@ -154,7 +151,7 @@ Problem Solving ██████████████░░░░░░  70
 
 ### 🎓 Currently Learning
 - ⚛️ Complete React.js Development
-- ☕ Advanced Java Programming (113+ hours)
+- ☕ Advanced Java Programming
 - 🎨 Modern UI/UX Design Patterns
 - 🚀 Full Stack Best Practices
 - 📱 Responsive Web Design
@@ -234,7 +231,7 @@ A modern web application for browsing, ordering, and tracking pizza orders. Feat
 </td>
 <td width="50%">
 
-### 💼 [Software Company Website](https://github.com/samirshaikh744)
+### 💼 [Software Company Website](https://github.com/SamirShaikh03)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -252,7 +249,7 @@ Comprehensive corporate website showcasing company services, expertise, and even
 <tr>
 <td width="50%">
 
-### 🍰 [Sweet Delights Bakery](https://github.com/samirshaikh744)
+### 🍰 [Sweet Delights Bakery](https://github.com/SamirShaikh03)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -268,7 +265,7 @@ Interactive e-commerce platform for a fictional bakery with product browsing, se
 </td>
 <td width="50%">
 
-### 🎓 [Learning Projects](https://github.com/samirshaikh744)
+### 🎓 [Learning Projects](https://github.com/SamirShaikh03)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
@@ -330,17 +327,14 @@ graph LR
 
 ### 🌐 Find Me Around the Web
 
-<a href="https://github.com/samirshaikh744">
+<a href="https://github.com/SamirShaikh03">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://linkedin.com">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:shaikhsaim844@gmail.com">
+<a href="mailto:shaikhsaim8442@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="tel:+917020217904">
-  <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
 </a>
 
 ### 💬 Open for Opportunities
@@ -350,18 +344,6 @@ graph LR
 🔹 Collaborative Open Source Projects  
 🔹 Internship Opportunities  
 🔹 Tech Discussions & Mentorship  
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🌟 Profile Views & Followers
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=samirshaikh744&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/samirshaikh744?style=for-the-badge&color=00D9FF&labelColor=0D1117)
-![Stars](https://img.shields.io/github/stars/samirshaikh744?style=for-the-badge&color=00D9FF&labelColor=0D1117)
 
 </div>
 
@@ -377,14 +359,6 @@ graph LR
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/samirshaikh744/samirshaikh744/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
 ---
 
 <div align="center">
@@ -393,7 +367,7 @@ graph LR
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-### ⭐ From [Samir Shaikh](https://github.com/samirshaikh744) with 💙
+### ⭐ From [Samir Shaikh](https://github.com/SamirShaikh03) with 💙
 
 **✨ Show some ❤️ by starring some of the repositories! ✨**
 
