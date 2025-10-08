@@ -13,7 +13,7 @@
   <a href="https://github.com/SamirShaikh03">
     <img src="https://img.shields.io/badge/GitHub-%40SamirShaikh03-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=00F7F7"/>
   </a>
-  <a href="https://github.com/samirshaikh744">
+  <a href="https://github.com/SamirShaikh03">
     <img src="https://img.shields.io/badge/GitHub%20Profile-View-00F7F7?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
   </a>
   <a href="https://www.linkedin.com/in/samir-shaikh-9424b4380">
@@ -321,45 +321,93 @@ graph LR
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📫 Let's Connect & Collaborate!
-
+<!-- Connect Section -->
 <div align="center">
 
-### 🌐 Find Me Around the Web
+## 📫 **Let's Connect & Collaborate!**
 
-<a href="https://github.com/SamirShaikh03">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://linkedin.com">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:shaikhsaim8442@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 💬 Open for Opportunities
+### **🌐 Find Me Around the Web**
 
-🔹 Full Stack Development Projects  
-🔹 Freelance Web Development  
-🔹 Collaborative Open Source Projects  
-🔹 Internship Opportunities  
-🔹 Tech Discussions & Mentorship  
+<p align="center">
+  <a href="https://github.com/samirshaikh744">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=00F7F7" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/samir-shaikh">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=00F7F7" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:shaikhsaim844@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=00F7F7" alt="Email"/>
+  </a>
+  <a href="tel:+917020217904">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366&color=00F7F7" alt="Phone"/>
+  </a>
+</p>
 
+### **💬 I'm Open For**
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+**💼 Opportunities**
+```
+🚀 Internships & Training Programs
+🤝 Collaborative Student Projects
+🌐 Hackathons & Coding Challenges
+🧩 Research or Innovation-Based Work
+```
+
+</td>
+<td align="center" width="33%">
+
+**🎯 Learning & Growth**
+```
+📚 Exploring New Tech Fields
+💻 Building Coding Skills (C++, Python)
+🧠 Understanding Core Engineering Concepts
+🤖 Learning about AI, Data & Quantum Computing
+```
+
+</td>
+<td align="center" width="33%">
+
+**💬 Collaboration**
+```
+💡 Sharing Knowledge with Peers
+🔧 Open-Source Contributions
+🎓 Study Group Discussions
+🌟 Brainstorming Innovative Ideas
+```
+</td>
+</tr>
+</table>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💡 Random Dev Quote
-
+<!-- Fun Section -->
 <div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## 🎮 **Fun Zone**
+
+### **💭 Random Dev Quote**
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House&border=00F7F7"/>
+
+### **🐍 Contribution Snake**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samirshaikh744/samirshaikh744/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samirshaikh744/samirshaikh744/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/samirshaikh744/samirshaikh744/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
 
 <div align="center">
 
