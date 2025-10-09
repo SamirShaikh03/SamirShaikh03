@@ -10,26 +10,33 @@
 
 <!-- Premium Social Badges -->
 <p align="center">
-  <a href="https://github.com/SamirShaikh03">
-    <img src="https://img.shields.io/badge/GitHub-%40SamirShaikh03-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=00F7F7"/>
-  </a>
-  <a href="https://github.com/SamirShaikh03">
-    <img src="https://img.shields.io/badge/GitHub%20Profile-View-00F7F7?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
-  </a>
-  <a href="https://www.linkedin.com/in/samir-shaikh-9424b4380">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=00F7F7"/>
-  </a>
-</p>
-
-<p align="center">
   <a href="mailto:shaikhsaim8442@gmail.com">
     <img src="https://img.shields.io/badge/Email-shaikhsaim844%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
   </a>
 </p>
+<!-- right-aligned social icons -->
+<a href="https://github.com/SamirShaikh03" target="_blank">
+  <img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="SamirShaikh03 | GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/samir-shaikh-9424b4380" target="_blank">
+  <img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Samir Shaikh | LinkedIn" />
+</a>
+
+<p align="left">
+  <a href="https://github.com/SamirShaikh03" target="_blank" rel="noopener">
+    <img src="https://komarev.com/ghpvc/?username=SamirShaikh03&label=Profile%20views&color=red&style=for-the-badge" alt="Profile views">
+  </a>
+</p>
+
+
+<!-- animated header image / gif -->
+<p>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="header gif">
+  <a href="https://github.com/SamirShaikh03" target="_blank">
+    <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="250" alt="side gif">
+  </a>
+</p>
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ### 👨‍💻 **About Me**
 
 ```javascript
@@ -189,97 +196,29 @@ Problem Solving ██████████████░░░░░░  70
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 GitHub Analytics
-
+<h3>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="35" height="25" margin-bottom="-20px"> &ensp;Stats
+</h3>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamirShaikh03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirShaikh03&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
-</div>
+  <span>
+    <a href="https://github.com/SamirShaikh03">
+      <img width="330" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SamirShaikh03&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="Top Languages" />
+    </a>
+  </span>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamirShaikh03&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak Stats"/>
-</div>
+  <span>
+    <a href="https://github.com/SamirShaikh03">
+      <img width="410" src="https://github-readme-stats-salesp07.vercel.app/api?username=SamirShaikh03&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="GitHub Stats" />
+    </a>
+  </span>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamirShaikh03&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph"/>
-</div>
+  <span>
+    <a href="https://github.com/SamirShaikh03">
+      <img width="430" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SamirShaikh03&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="GitHub Streak" />
+    </a>
+  </span>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎨 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🍕 [Pizza Ordering Web App](https://github.com/samirshaikh744)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-A modern web application for browsing, ordering, and tracking pizza orders. Features include menu browsing, cart management, and smooth checkout flow.
-
-**Key Features:**
-- 🛒 Dynamic Cart Management
-- 💳 Integrated Checkout Flow
-- 📱 Fully Responsive Design
-- 🎨 Modern UI/UX
-
-</td>
-<td width="50%">
-
-### 💼 [Software Company Website](https://github.com/SamirShaikh03)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-Comprehensive corporate website showcasing company services, expertise, and events with modern design patterns.
-
-**Key Features:**
-- 📊 Interactive Sections
-- 📧 Contact Form Integration
-- 🎭 Popup & Modal System
-- ⚡ Optimized Performance
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🍰 [Sweet Delights Bakery](https://github.com/SamirShaikh03)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-Interactive e-commerce platform for a fictional bakery with product browsing, search, and shopping cart capabilities.
-
-**Key Features:**
-- 🔍 Smart Search & Filter
-- 🛍️ Shopping Cart System
-- 📦 Order Tracking
-- 🌟 Product Catalog
-
-</td>
-<td width="50%">
-
-### 🎓 [Learning Projects](https://github.com/SamirShaikh03)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-Collection of projects built while learning React.js, Java, and modern web development practices.
-
-**Focus Areas:**
-- ⚛️ React Component Design
-- ☕ Java OOP Concepts
-- 🎯 Algorithm Implementation
-- 💡 Problem Solving
-
-</td>
-</tr>
-</table>
+  <!-- Contribution Graph -->
 
 </div>
 
@@ -324,28 +263,7 @@ graph LR
 <!-- Connect Section -->
 <div align="center">
 
-## 📫 **Let's Connect & Collaborate!**
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### **🌐 Find Me Around the Web**
-
-<p align="center">
-  <a href="https://github.com/samirshaikh744">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=00F7F7" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/samir-shaikh">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=00F7F7" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:shaikhsaim844@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=00F7F7" alt="Email"/>
-  </a>
-  <a href="tel:+917020217904">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366&color=00F7F7" alt="Phone"/>
-  </a>
-</p>
-
-### **💬 I'm Open For**
+## **💬 I'm Open For**
 
 <table align="center">
 <tr>
@@ -411,12 +329,20 @@ graph LR
 
 <div align="center">
 
-### 🌟 "Code is like humor. When you have to explain it, it's bad!" - Cory House
+### **🌟 Show Some Love**
+
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
+  <img src="https://forthebadge.com/images/badges/makes-people-smile.svg"/>
+</p>
+
+### 🌟 "Talk is cheap. Show me the code!" - Linus Torvalds
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-### ⭐ From [Samir Shaikh](https://github.com/SamirShaikh03) with 💙
+**Made with 💙 by [Samir Shaikh](https://github.com/SamirShaikh03)**
 
-**✨ Show some ❤️ by starring some of the repositories! ✨**
+*Last Updated: October 2025 • Version 2.0.0 • Status: Active Developer 🚀*
 
 </div>
