@@ -37,8 +37,10 @@
   </a>
 </p>
 </div>
-### 👨‍💻 **About Me**
 
+<!-- About Me Section with Visual Design -->
+
+### 👨‍💻 **About Me**
 ```javascript
 const samir = {
     location: "Pune, India 🇮🇳",
@@ -50,8 +52,8 @@ const samir = {
     lifePhilosophy: "Build, Break, Learn, Repeat 🔄"
 };
 ```
-
 <br/>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
