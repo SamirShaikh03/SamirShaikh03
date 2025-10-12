@@ -235,7 +235,7 @@ graph LR
     A[🎓 Education] --> B[🏆 First Rank SSC]
     B --> C[💻 HSC - Garde: A]
     C --> D[🎓 Engineering @ GHRCEM]
-    D --> E[☕ Java Certification]
+    D --> E[☕ Java-All]
     D --> F[⚛️ React.js Learning]
     E --> G[🚀 Full Stack Developer]
     F --> G
