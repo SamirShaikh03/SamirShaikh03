@@ -48,7 +48,6 @@ const samir = {
     currentFocus: ["Full Stack Development", "Web3 Technologies"],
     learning: ["React.js", "Advanced Java", "Modern UI/UX"],
     askMeAbout: ["Web Dev", "Tech", "Pizza Ordering Systems"],
-    funFact: "First Rank in SSC - Because Code Runs in My Blood! 🏆",
     lifePhilosophy: "Build, Break, Learn, Repeat 🔄"
 };
 ```
@@ -93,7 +92,6 @@ const samir = {
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/DBMS-CC2927?style=for-the-badge&logo=database&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Agile%20Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge&logo=codechef&logoColor=white"/>
 </p>
 
@@ -184,7 +182,7 @@ Problem Solving ██████████████░░░░░░  70
 </td>
 <td align="center" width="33%">
 <img src="https://img.icons8.com/color/96/000000/medal.png" width="60px"/>
-<h3>🏅 Best Student Award</h3>
+<h3>🏅 Student of the Year Award</h3>
 <p>Achieved Best Student Award (2020)</p>
 </td>
 <td align="center" width="33%">
@@ -221,26 +219,6 @@ Problem Solving ██████████████░░░░░░  70
   </span>
 
   <!-- Contribution Graph -->
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📈 Coding Journey
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[🎓 Education] --> B[🏆 First Rank SSC]
-    B --> C[💻 HSC - Garde: A]
-    C --> D[🎓 Engineering @ GHRCEM]
-    D --> E[☕ Java-All]
-    D --> F[⚛️ React.js Learning]
-    E --> G[🚀 Full Stack Developer]
-    F --> G
-    G --> H[🌟 Building Amazing Projects]
-```
 
 </div>
 
