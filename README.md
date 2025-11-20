@@ -77,7 +77,7 @@ const samir = {
 ### **🔧 Backend & Databases**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,python&theme=dark" alt="Backend"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,java,mongodb,mysql,python&theme=dark" alt="Backend"/>
 </p>
 
 ### **🎨 Tools & Design**
