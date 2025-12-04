@@ -71,13 +71,13 @@ const samir = {
 ### **⚛️ Frontend Development**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,javascript,tailwind&theme=dark" alt="Frontend"/>
+  <img src="https://skillicons.dev/icons?i=react,html,css,javascript&theme=dark" alt="Frontend"/>
 </p>
 
 ### **🔧 Backend & Databases**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,java,mongodb,mysql,python&theme=dark" alt="Backend"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,java,oracle,python&theme=dark" alt="Backend"/>
 </p>
 
 ### **🎨 Tools & Design**
@@ -89,8 +89,6 @@ const samir = {
 ### **📚 Additional Skills**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/DBMS-CC2927?style=for-the-badge&logo=database&logoColor=white"/>
   <img src="https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge&logo=codechef&logoColor=white"/>
 </p>
@@ -126,7 +124,6 @@ Tech Stack Mastery:
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Node.js         ███████████████░░░░░  75%
-MongoDB         ████████████████░░░░  80%
 SQL/MySQL       ███████████████░░░░░  75%
 UI/UX Design    ████████████████████  100%
 Git/GitHub      ██████████████████░░  80%
