@@ -77,7 +77,7 @@ const samir = {
 ### **🔧 Backend & Databases**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,java,oracle,python&theme=dark" alt="Backend"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,java,mysql,python&theme=dark" alt="Backend"/>
 </p>
 
 ### **🎨 Tools & Design**
@@ -91,51 +91,12 @@ const samir = {
 <p align="center">
   <img src="https://img.shields.io/badge/DBMS-CC2927?style=for-the-badge&logo=database&logoColor=white"/>
   <img src="https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge&logo=codechef&logoColor=white"/>
+  <img src="https://img.shields.io/badge/System Design-CC2927?style=for-the-badge&logo=database&logoColor=white"/>
 </p>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Skill Proficiency Bars -->
-<div align="center">
-
-## 📊 **Technical Proficiency Levels**
-
-<table>
-<tr><td>
-
-```text
-Language Proficiency:
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-C/C++           ████████████████████  90%
-HTML/CSS        ████████████████████  100%
-Java            ██████████████████░░  80%
-React.js        ████████████████░░░░  70%
-Python          ████████████████░░░░  70%
-JS              ████████████████░░░░  70%
-```
-
-</td><td>
-
-```text
-Tech Stack Mastery:
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Node.js         ███████████████░░░░░  75%
-SQL/MySQL       ███████████████░░░░░  75%
-UI/UX Design    ████████████████████  100%
-Git/GitHub      ██████████████████░░  80%
-Problem Solving ██████████████░░░░░░  70%
-```
-
-</td></tr>
-</table>
-
-</div>
-
----
 
 
 ## 🎯 What I'm Currently Working On
@@ -175,12 +136,12 @@ Problem Solving ██████████████░░░░░░  70
 <td align="center" width="33%">
 <img src="https://img.icons8.com/color/96/000000/trophy.png" width="60px"/>
 <h3>🥇 First Rank in SSC</h3>
-<p>Secured 1st Rank in School (2020)</p>
+<p>Secured 1st Rank in School (2022)</p>
 </td>
 <td align="center" width="33%">
 <img src="https://img.icons8.com/color/96/000000/medal.png" width="60px"/>
 <h3>🏅 Student of the Year Award</h3>
-<p>Achieved Best Student Award (2020)</p>
+<p>Achieved Best Student Award (2022)</p>
 </td>
 <td align="center" width="33%">
 <img src="https://img.icons8.com/color/96/000000/certificate.png" width="60px"/>
