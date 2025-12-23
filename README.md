@@ -27,15 +27,6 @@
     <img src="https://komarev.com/ghpvc/?username=SamirShaikh03&label=Profile%20views&color=red&style=for-the-badge" alt="Profile views">
   </a>
 </p>
-
-
-<!-- animated header image / gif -->
-<p>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="header gif">
-  <a href="https://github.com/SamirShaikh03" target="_blank">
-    <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="250" alt="side gif">
-  </a>
-</p>
 </div>
 
 <!-- About Me Section with Visual Design -->
@@ -251,14 +242,6 @@ const samir = {
 ### **💭 Random Dev Quote**
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House&border=00F7F7"/>
-
-### **🐍 Contribution Snake**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamirShaikh03/SamirShaikh03/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamirShaikh03/SamirShaikh03/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SamirShaikh03/SamirShaikh03/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
 <br>
