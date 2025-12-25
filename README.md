@@ -15,9 +15,6 @@
   </a>
 </p>
 <!-- right-aligned social icons -->
-<a href="https://github.com/SamirShaikh03" target="_blank">
-  <img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="SamirShaikh03 | GitHub" />
-</a>
 <a href="https://www.linkedin.com/in/samir-shaikh-9424b4380" target="_blank">
   <img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Samir Shaikh | LinkedIn" />
 </a>
@@ -75,14 +72,6 @@ const samir = {
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm&theme=dark" alt="Tools"/>
-</p>
-
-### **📚 Additional Skills**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/DBMS-CC2927?style=for-the-badge&logo=database&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge&logo=codechef&logoColor=white"/>
-  <img src="https://img.shields.io/badge/System Design-CC2927?style=for-the-badge&logo=database&logoColor=white"/>
 </p>
 
 </div>
