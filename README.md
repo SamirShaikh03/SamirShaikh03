@@ -1,258 +1,216 @@
 <div align="center">
 
-<!-- Futuristic Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,12&height=200&section=header&text=SAMIR%20SHAIKH&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20UI/UX%20Architect%20%7C%20Innovation%20Engineer&descAlignY=55&descSize=18"/>
+<img width="100%" src="./assets/banner.png" alt="Header Banner"/>
 
-<!-- Dynamic Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=70&lines=Building+Tomorrow's+Digital+Experiences+%F0%9F%9A%80;Crafting+Scalable+Web+Solutions+%F0%9F%92%BB;Transforming+Ideas+into+Reality+%E2%9C%A8;Passionate+Full-Stack+Developer+%F0%9F%8C%9F" alt="Typing SVG" />
+# Samir Shaikh
+
+**Java Full-Stack Developer | Spring Boot Specialist | React.js Engineer**
+
+<a href="mailto:shaikhsaim8442@gmail.com">
+  <img src="https://img.shields.io/badge/Email-shaikhsaim8442%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/samir-shaikh-9424b4380">
+  <img src="https://img.shields.io/badge/LinkedIn-Samir_Shaikh-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/SamirShaikh03">
+  <img src="https://img.shields.io/badge/GitHub-SamirShaikh03-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<!-- Premium Social Badges -->
-<p align="center">
-  <a href="mailto:shaikhsaim8442@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shaikhsaim844%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
-  </a>
-</p>
-<!-- right-aligned social icons -->
-<a href="https://www.linkedin.com/in/samir-shaikh-9424b4380" target="_blank">
-  <img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Samir Shaikh | LinkedIn" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=SamirShaikh03&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
-<p align="left">
-  <a href="https://github.com/SamirShaikh03" target="_blank" rel="noopener">
-    <img src="https://komarev.com/ghpvc/?username=SamirShaikh03&label=Profile%20views&color=red&style=for-the-badge" alt="Profile views">
-  </a>
-</p>
 </div>
 
-<!-- About Me Section with Visual Design -->
+---
 
-### 👨‍💻 **About Me**
-```javascript
-const samir = {
-    location: "Pune, India 🇮🇳",
-    education: "Computer Engineering @ G.H Raisoni CoEM",
-    currentFocus: ["Full Stack Development", "Web3 Technologies"],
-    learning: ["React.js", "Advanced Java", "Modern UI/UX"],
-    askMeAbout: ["Web Dev", "Tech", "Pizza Ordering Systems"],
-    lifePhilosophy: "Build, Break, Learn, Repeat 🔄"
-};
-```
+## About Me
+
+Java Full-Stack Developer based in **Pune, India**, pursuing Computer Engineering at **G. H. Raisoni College of Engineering & Management**. I specialize in building enterprise-grade web applications using **Spring Boot** and **React.js**, with a strong focus on clean architecture, secure APIs, and scalable system design.
+
+- Building production-ready applications with **Java Spring Boot** and **React.js**
+- Experienced in **REST API development**, **JWT Authentication**, and **System Design**
+- Passionate about creating secure, scalable, and user-centric solutions
+
+---
+
+## Tech Stack
+
+**Backend Development**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat&logo=swagger&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+
+**Frontend Development**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
+
+**Database**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Tools & Testing**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
+
+**Programming Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+---
+
+## Featured Projects
+
+### InsurAI - Corporate Policy Automation System
+Smart insurance management system automating corporate policy handling and claims processing with real-time tracking. 
+
+- Engineered end-to-end insurance workflow enabling users to apply for policies, submit claims, and track status
+- Developed secure REST APIs with Spring Boot implementing JWT-based authentication for role-based access control
+- Designed scalable MySQL database schema for managing policies, claims, and user data
+- Built responsive React. js frontend with interactive dashboards for policy and claims tracking
+
+**Tech:** Java Spring Boot, React.js, MySQL, JWT Authentication, System Design
+
+---
+
+### Pizza Ordering Web App
+Modern web application for browsing, ordering, and tracking pizzas with real-time order management.
+
+- Developed responsive ordering platform with intuitive menu browsing, dynamic cart management, and seamless checkout
+- Implemented paginated order history with detailed modal information and real-time status tracking
+- Built interactive UI features including daily promotions, contact form, and currency formatting utilities
+
+**Tech:** React.js, TanStack Router, TanStack Query, Vite, Vitest, Playwright
+
+---
+
+### Mental Health Support Platform
+Comprehensive digital mental health support platform providing accessible resources and support for students. 
+
+- Engineered AI-powered 24/7 chatbot for immediate mental health assistance with secure authentication
+- Developed mood tracking with analytics, personal journaling with guided prompts, and wellness exercises
+- Implemented appointment booking system and mental health screening tools with assessments
+
+**Tech:** React 19, React Router DOM, Framer Motion, CSS3, Axios, Jest
+
+---
+
+<h3>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="25" />
+  &ensp;GitHub Stats
+</h3>
+
+<div align="center">
+
+  <!-- Top Languages -->
+  <a href="https://github.com/SamirShaikh03">
+    <img
+      width="320"
+      alt="Top Languages"
+      src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SamirShaikh03&langs_count=8&layout=compact&theme=dark&hide_border=true&border_radius=10"
+    />
+  </a>
+
+  <!-- GitHub Stats -->
+  <a href="https://github.com/SamirShaikh03">
+    <img
+      width="400"
+      alt="GitHub Stats"
+      src="https://github-readme-stats-salesp07.vercel.app/api?username=SamirShaikh03&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10"
+    />
+  </a>
+
+  <!-- Streak Stats -->
+  <a href="https://github.com/SamirShaikh03">
+    <img
+      width="420"
+      alt="GitHub Streak"
+      src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SamirShaikh03&theme=dark&hide_border=true&border_radius=10"
+    />
+  </a>
+
+</div>
+
 <br/>
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-<!-- Tech Stack with Modern Design -->
+<!-- Activity Graph -->
 <div align="center">
-
-## 🛠️ **Technology Arsenal**
-
-### **💻 Programming Languages**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,html,css&theme=dark" alt="Languages"/>
-</p>
-
-### **⚛️ Frontend Development**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,javascript&theme=dark" alt="Frontend"/>
-</p>
-
-### **🔧 Backend & Databases**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,java,mysql,python&theme=dark" alt="Backend"/>
-</p>
-
-### **🎨 Tools & Design**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm&theme=dark" alt="Tools"/>
-</p>
-
+  <a href="https://github.com/SamirShaikh03">
+    <img
+      width="95%"
+      alt="Contribution Graph"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=SamirShaikh03&theme=github-dark&hide_border=true&radius=10"
+    />
+  </a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+---
 
-## 🎯 What I'm Currently Working On
+## Achievements
 
-<table>
-<tr>
-<td width="50%">
+**First Rank in SSC** — Secured 1st Rank in School (2022)
 
-### 🔥 Recent Projects
-- 🍕 **Pizza Ordering Web App** - Full-featured platform with menu browsing, cart management & checkout
-- 💼 **Software Company Website** - Responsive multi-section corporate site with modern UI
-- 🍰 **Sweet Delights Bakery** - E-commerce platform with dynamic product catalog
-- 📚 Learning React.js & Advanced Java Concepts
+**Student of the Year** — Best Student Award (2022)
 
-</td>
-<td width="50%">
+**Certified Developer** — React.js & Java Certified
 
-### 🎓 Currently Learning
-- ⚛️ Complete React.js Development
-- ☕ Advanced Java Programming
-- 🎨 Modern UI/UX Design Patterns
-- 🚀 Full Stack Best Practices
-- 📱 Responsive Web Design
+---
 
-</td>
-</tr>
-</table>
+## Areas of Interest
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+**Core Expertise** — Java Full-Stack Development, Spring Boot Applications, Database Architecture, React.js Frontend
 
-## 🏆 Achievements & Milestones
+**Development Focus** — REST API Design, System Design, Secure Authentication, Performance Optimization
 
-<div align="center">
+**Career Goals** — Enterprise Solutions, Cloud Architecture, Open Source Contribution, Technical Leadership
 
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/trophy.png" width="60px"/>
-<h3>🥇 First Rank in SSC</h3>
-<p>Secured 1st Rank in School (2022)</p>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/medal.png" width="60px"/>
-<h3>🏅 Student of the Year Award</h3>
-<p>Achieved Best Student Award (2022)</p>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/certificate.png" width="60px"/>
-<h3>📜 Certified Developer</h3>
-<p>React.js & Java Certified</p>
-</td>
-</tr>
-</table>
+---
 
-</div>
+## Open To
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="35" height="25" margin-bottom="-20px"> &ensp;Stats
-</h3>
-<div align="center">
-  <span>
-    <a href="https://github.com/SamirShaikh03">
-      <img width="330" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SamirShaikh03&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="Top Languages" />
-    </a>
-  </span>
+**Opportunities**
+- Java Full-Stack Development Internships
+- Spring Boot Backend Development Roles
+- Collaborative Enterprise Projects
+- Hackathons & Technical Challenges
 
-  <span>
-    <a href="https://github.com/SamirShaikh03">
-      <img width="410" src="https://github-readme-stats-salesp07.vercel.app/api?username=SamirShaikh03&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="GitHub Stats" />
-    </a>
-  </span>
+**Collaboration**
+- Open-Source Contributions
+- Backend Architecture Discussions
+- Building Scalable Solutions
 
-  <span>
-    <a href="https://github.com/SamirShaikh03">
-      <img width="430" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SamirShaikh03&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="GitHub Streak" />
-    </a>
-  </span>
+---
 
-  <!-- Contribution Graph -->
+## Let's Connect
 
-</div>
+I'm always interested in discussing Java Full-Stack opportunities, collaborating on enterprise projects, or connecting with fellow developers. 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+**Email:** shaikhsaim8442@gmail.com  
+**LinkedIn:** [samir-shaikh-9424b4380](https://www.linkedin.com/in/samir-shaikh-9424b4380)  
+**GitHub:** [SamirShaikh03](https://github.com/SamirShaikh03)
 
-## 🎯 Areas of Interest
+---
 
 <div align="center">
 
-| 💼 Professional | 🎨 Creative | 🚀 Future Goals |
-|:---------------:|:-----------:|:---------------:|
-| Full Stack Development | UI/UX Design | Web3 Development |
-| Problem Solving | Modern CSS | Cloud Architecture |
-| Database Design | Animation | AI Integration |
-| API Development | Responsive Design | Open Source |
-| Version Control | Design Systems | Tech Leadership |
+*"Talk is cheap. Show me the code."* — Linus Torvalds
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Connect Section -->
-<div align="center">
-
-## **💬 I'm Open For**
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-**💼 Opportunities**
-```
-🚀 Internships & Training Programs
-🤝 Collaborative Student Projects
-🌐 Hackathons & Coding Challenges
-🧩 Research or Innovation-Based Work
-```
-
-</td>
-<td align="center" width="33%">
-
-**🎯 Learning & Growth**
-```
-📚 Exploring New Tech Fields
-💻 Building Coding Skills (C++, Python)
-🧠 Understanding Core Engineering Concepts
-🤖 Learning about AI, Data & Quantum Computing
-```
-
-</td>
-<td align="center" width="33%">
-
-**💬 Collaboration**
-```
-💡 Sharing Knowledge with Peers
-🔧 Open-Source Contributions
-🎓 Study Group Discussions
-🌟 Brainstorming Innovative Ideas
-```
-</td>
-</tr>
-</table>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Fun Section -->
-<div align="center">
-
-## 🎮 **Fun Zone**
-
-### **💭 Random Dev Quote**
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House&border=00F7F7"/>
-
-</div>
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-### **🌟 Show Some Love**
-
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
-  <img src="https://forthebadge.com/images/badges/makes-people-smile.svg"/>
-</p>
-
-### 🌟 "Talk is cheap. Show me the code!" - Linus Torvalds
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-**Made with 💙 by [Samir Shaikh](https://github.com/SamirShaikh03)**
-
-*Last Updated: October 2025 • Version 2.0.0 • Status: Active Developer 🚀*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" alt="Footer Wave"/>
 
 </div>
