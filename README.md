@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./assets/banner.png" alt="Header Banner"/>
+<img width="100%" src="./assets/banner-img.jpg" alt="Header Banner"/>
 
 # Samir Shaikh
 
