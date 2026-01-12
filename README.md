@@ -1,10 +1,8 @@
 <div align="center">
 
 <img width="100%" src="./assets/banner-img.jpg" alt="Header Banner"/>
-
-# Samir Shaikh
-
-**Java Full-Stack Developer | Spring Boot Specialist | React.js Engineer**
+<br/>
+<br/>
 
 <a href="mailto:shaikhsaim8442@gmail.com">
   <img src="https://img.shields.io/badge/Email-shaikhsaim8442%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
@@ -211,6 +209,18 @@ I'm always interested in discussing Java Full-Stack opportunities, collaborating
 
 *"Talk is cheap. Show me the code."* — Linus Torvalds
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" alt="Footer Wave"/>
+<h3 align="center">Connect with me</h3>
+
+<p align="center">
+  <a href="mailto:shaikhsamir8442@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/samir-shaikh-9424b4380">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
+  </a>
+</p>
 
 </div>
