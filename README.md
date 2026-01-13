@@ -97,17 +97,6 @@ Modern web application for browsing, ordering, and tracking pizzas with real-tim
 
 ---
 
-### Mental Health Support Platform
-Comprehensive digital mental health support platform providing accessible resources and support for students. 
-
-- Engineered AI-powered 24/7 chatbot for immediate mental health assistance with secure authentication
-- Developed mood tracking with analytics, personal journaling with guided prompts, and wellness exercises
-- Implemented appointment booking system and mental health screening tools with assessments
-
-**Tech:** React 19, React Router DOM, Framer Motion, CSS3, Axios, Jest
-
----
-
 <h3>
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="25" />
   &ensp;GitHub Stats
