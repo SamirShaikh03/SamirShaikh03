@@ -188,12 +188,6 @@ Modern web application for browsing, ordering, and tracking pizzas with real-tim
 
 I'm always interested in discussing Java Full-Stack opportunities, collaborating on enterprise projects, or connecting with fellow developers. 
 
-**Email:** shaikhsaim8442@gmail.com  
-**LinkedIn:** [samir-shaikh-9424b4380](https://www.linkedin.com/in/samir-shaikh-9424b4380)  
-**GitHub:** [SamirShaikh03](https://github.com/SamirShaikh03)
-
----
-
 <div align="center">
 
 *"Talk is cheap. Show me the code."* — Linus Torvalds
