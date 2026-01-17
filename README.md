@@ -172,14 +172,14 @@ Modern web application for browsing, ordering, and tracking pizzas with real-tim
 ## Open To
 
 **Opportunities**
-- Java Full-Stack Development Internships
-- Spring Boot Backend Development Roles
+- Full-Stack Development Internships
+- Spring Boot + React.js Full-stack Development Roles
 - Collaborative Enterprise Projects
 - Hackathons & Technical Challenges
 
 **Collaboration**
 - Open-Source Contributions
-- Backend Architecture Discussions
+- Backend Development Discussions
 - Building Scalable Solutions
 
 ---
