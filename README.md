@@ -20,13 +20,17 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-Java Full-Stack Developer based in **Pune, India**, pursuing Computer Engineering at **G. H. Raisoni College of Engineering & Management**. I specialize in building enterprise-grade web applications using **Spring Boot** and **React.js**, with a strong focus on clean architecture, secure APIs, and scalable system design.
+Java Full-Stack Developer based in **Pune, India**, currently pursuing Computer Engineering at **G. H. Raisoni College of Engineering & Management**. I build scalable, production-ready web applications using **Spring Boot** and **React.js**, with a strong focus on clean architecture, secure APIs, and efficient system design.
 
-- Building production-ready applications with **Java Spring Boot** and **React.js**
-- Experienced in **REST API development**, **JWT Authentication**, and **System Design**
-- Passionate about creating secure, scalable, and user-centric solutions
+### 🔧 What I Do
+- Develop RESTful APIs using Spring Boot  
+- Implement JWT-based authentication and authorization  
+- Design secure, maintainable, and user-centric applications  
+
+I’m passionate about solving real-world problems through technology and continuously improving my skills in modern full-stack development.
+
 
 ---
 
