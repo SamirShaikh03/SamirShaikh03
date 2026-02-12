@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-Java Full-Stack Developer based in **Pune, India**, currently pursuing Computer Engineering at **G. H. Raisoni College of Engineering & Management**. I build scalable, production-ready web applications using **Spring Boot** and **React.js**, with a strong focus on clean architecture, secure APIs, and efficient system design.
+A motivated 2nd-year B.Tech student seeking an internship or training opportunity in **Full Stack Java Development** to strengthen skills in **Java, Spring Boot, React.js, CSS and database management**. He aims to apply problem-solving, disciplined work habits, and strong analytical ability to build scalable web applications while preparing for a career in enterprise software development.
 
 ### 🔧 What I Do
 - Develop RESTful APIs using Spring Boot  
