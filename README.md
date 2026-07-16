@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-A motivated 2nd-year B.Tech student seeking an internship or training opportunity in **Full Stack Java Development** to strengthen skills in **Java, Spring Boot, React.js, CSS and database management**. He aims to apply problem-solving, disciplined work habits, and strong analytical ability to build scalable web applications while preparing for a career in enterprise software development.
+A motivated 3rd-year B.Tech student seeking an internship or training opportunity in **Full Stack Java Development** to strengthen skills in **Java, Spring Boot, React.js, CSS and database management**. He aims to apply problem-solving, disciplined work habits, and strong analytical ability to build scalable web applications while preparing for a career in enterprise software development.
 
 ### 🔧 What I Do
 - Develop RESTful APIs using Spring Boot  
@@ -159,7 +159,7 @@ Modern web application for browsing, ordering, and tracking pizzas with real-tim
 
 **Student of the Year** — Best Student Award (2022)
 
-**Certified Developer** — React.js & Java Certified
+**Certified Developer** — GenAI, React.js & Java Certified
 
 ---
 
@@ -194,7 +194,7 @@ I'm always interested in discussing Java Full-Stack opportunities, collaborating
 
 <div align="center">
 
-*"Talk is cheap. Show me the code."* — Linus Torvalds
+*"Vision without execution is just hallucination."* — Mark Suster
 
 <h3 align="center">Connect with me</h3>
 
